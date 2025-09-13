@@ -1,7 +1,5 @@
 # Ena Ema Technologies - Landing Page
 
-[Live Demo]()
-
 ## Overview
 
 This is a fully responsive landing page for Ena Ema Technologies. It includes a hero section with a contact form, trust indicators, animations using Framer Motion, and form validation. The design is modern, clean, and fully responsive across devices.
